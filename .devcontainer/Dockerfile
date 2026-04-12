@@ -13,8 +13,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && pip3 install --break-system-packages secretstorage
 
 # GitLab CLI (glab)
-RUN curl -fsSL "https://gitlab.com/gitlab-org/cli/-/releases/permalink/latest/downloads/glab_linux_amd64.tar.gz" \
-    | tar -xz -C /usr/local/bin --strip-components=2 bin/glab
+RUN curl -fsSL "https://gitlab.com/gitlab-org/cli/-/releases/v1.92.1/downloads/glab_1.92.1_linux_amd64.tar.gz" \
+    | tar -xz -C /usr/local/bin --strip-components=1 bin/glab
 
 # GitHub Copilot CLI (offisiell npm-pakke)
 RUN npm install -g @github/copilot
