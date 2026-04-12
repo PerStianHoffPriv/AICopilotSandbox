@@ -1,6 +1,9 @@
 {
   "name": "Copilot CLI Sandbox",
   "build": { "dockerfile": "Dockerfile" },
+  "mounts": [
+    "source=copilot-cli-auth,target=/home/node/.config/copilot,type=volume"
+  ],
   "postCreateCommand": "bash .devcontainer/setup.sh",
   "customizations": {
     "vscode": {
