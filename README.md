@@ -1,3 +1,5 @@
+# HALLO
+
 # Copilot CLI Sandbox — AI Akademiet
 
 Et trygt, isolert miljø for å bruke **GitHub Copilot CLI** på kurset. Alt AI-en
@@ -115,9 +117,3 @@ ned pakker, og kalle REST API-er.
 Alt du vil bruke må installeres inne i containeren via `npm`, `pip`, `apt`
 osv. — og alt det der kan Copilot CLI hjelpe deg med.
 
----
-
-## Krav
-
-- GitHub-konto med Copilot aktivert
-- En moderne PC (Mac, Windows 10/11, eller Linux) med ~8 GB RAM
