@@ -19,5 +19,8 @@ RUN curl -fsSL "https://gitlab.com/gitlab-org/cli/-/releases/v1.92.1/downloads/g
 # GitHub Copilot CLI (offisiell npm-pakke)
 RUN npm install -g @github/copilot
 
+# OpenCode CLI
+RUN npm install -g opencode-ai
+
 USER node
 WORKDIR /workspaces/sandbox
