@@ -1,5 +1,3 @@
-# HALLO
-
 # Copilot CLI Sandbox — AI Akademiet
 
 Et trygt, isolert miljø for å bruke **GitHub Copilot CLI** på kurset. Alt AI-en
@@ -43,9 +41,6 @@ https://code.visualstudio.com/ → last ned og installer for ditt OS.
 2. Skriv: `Dev Containers: Try a Dev Container Sample`
 3. Velg et hvilket som helst sample.
 4. Hvis VS Code åpner en container uten feil — du er klar for kurset.
-
-> **Står du fast?** Svar på pre-kurs-e-posten eller ta kontakt i Slack-kanalen
-> vi har satt opp. Det er mye lettere å fikse hjemmefra enn på kursdagen.
 
 ---
 
