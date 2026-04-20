@@ -40,13 +40,14 @@ https://code.visualstudio.com/ → last ned og installer for ditt OS.
 1. I VS Code, trykk **Ctrl+Shift+P** (Windows/Linux) eller **Cmd+Shift+P** (Mac).
 2. Skriv: `Dev Containers: Try a Dev Container Sample`
 3. Velg et hvilket som helst sample.
-4. Hvis VS Code åpner en container uten feil — du er klar for kurset.
+4. Hvis VS Code åpner en container uten feil — du er klar for kurset.commit
 
 ---
 
 ## På kursdagen (3 steg)
 
 1. **Start Rancher Desktop** (hvis den ikke allerede kjører).
+
 2. **Åpne VS Code.**
 3. Trykk **Ctrl+Shift+P** (eller **Cmd+Shift+P** på Mac) og velg:
 
